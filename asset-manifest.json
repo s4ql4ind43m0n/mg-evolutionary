@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/mg-evolutionary/static/css/main.7b347ae3.css",
+    "main.js": "/mg-evolutionary/static/js/main.84591046.js",
+    "static/js/787.c26f496c.chunk.js": "/mg-evolutionary/static/js/787.c26f496c.chunk.js",
+    "static/media/blog3.jpg": "/mg-evolutionary/static/media/blog3.df9c4307c60a2bc9e6f9.jpg",
+    "static/media/nurse1.png": "/mg-evolutionary/static/media/nurse1.7467870eb74fb4584e27.png",
+    "static/media/blog2.PNG": "/mg-evolutionary/static/media/blog2.2bc5c7289d3a626107da.PNG",
+    "static/media/blog5.PNG": "/mg-evolutionary/static/media/blog5.6c9b063ef004ff5058aa.PNG",
+    "static/media/2.svg": "/mg-evolutionary/static/media/2.ad6ac044154442c70b60bcebb97270c5.svg",
+    "static/media/Group 81.png": "/mg-evolutionary/static/media/Group 81.2cfdf724680e3ce7e868.png",
+    "static/media/job.png": "/mg-evolutionary/static/media/job.d0fcea2ecc1fa9fbc3ce.png",
+    "static/media/browse.png": "/mg-evolutionary/static/media/browse.dc4bf3043d7d7097c474.png",
+    "static/media/4.svg": "/mg-evolutionary/static/media/4.923287a0b27961fa991bf829c3e1a617.svg",
+    "static/media/service.png": "/mg-evolutionary/static/media/service.f9a5b336265dbf3e8f36.png",
+    "static/media/choose.png": "/mg-evolutionary/static/media/choose.42e6690cf39319b157a8.png",
+    "static/media/schedule.png": "/mg-evolutionary/static/media/schedule.5dc797fdf039423b7a9e.png",
+    "static/media/mono.png": "/mg-evolutionary/static/media/mono.63e64cd2485e75946cdf.png",
+    "static/media/1.svg": "/mg-evolutionary/static/media/1.38ab5b0ff28e3a5d196d4f11b82b053c.svg",
+    "static/media/7.svg": "/mg-evolutionary/static/media/7.de88bf27420c64fd50e9ffecac396dcd.svg",
+    "static/media/5.svg": "/mg-evolutionary/static/media/5.41f7d652ef79e310c0a2a1cd3bb0871d.svg",
+    "static/media/3.svg": "/mg-evolutionary/static/media/3.f8cb2a60436d2e3fe5854def2e55f539.svg",
+    "index.html": "/mg-evolutionary/index.html",
+    "static/media/6.svg": "/mg-evolutionary/static/media/6.47a23bed6f3adeec8c489828bf73b9fa.svg",
+    "main.7b347ae3.css.map": "/mg-evolutionary/static/css/main.7b347ae3.css.map",
+    "main.84591046.js.map": "/mg-evolutionary/static/js/main.84591046.js.map",
+    "787.c26f496c.chunk.js.map": "/mg-evolutionary/static/js/787.c26f496c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b347ae3.css",
+    "static/js/main.84591046.js"
+  ]
+}
